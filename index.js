@@ -11,7 +11,7 @@ app.get("/", (req, res) => {
 <pre style="font-size: 3rem">
 
 
-Hello World. 
+Hello World. Test TeamTalk 2
 <br>
 env.TOKEN = '${process.env.TOKEN}'
 
